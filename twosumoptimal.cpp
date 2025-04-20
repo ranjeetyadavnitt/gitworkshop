@@ -1,0 +1,1 @@
+// this is optimal approach code 
